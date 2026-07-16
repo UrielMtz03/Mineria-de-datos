@@ -20,3 +20,4 @@
 - [2.2 Medidas de dipersión](https://github.com/UrielMtz03/Mineria-de-datos/blob/main/Ej%202.2%20Medidas%20de%20dispersi%C3%B3n.py)
 - [2.3 Correlación](https://github.com/UrielMtz03/Mineria-de-datos/blob/main/Ej%202.3%20Correlaci%C3%B3n.py)
 - [2.4 Gráficas](https://github.com/UrielMtz03/Mineria-de-datos/blob/main/Ej%202.4%20Gr%C3%A1ficas.py)
+- [2.5 Árbol de decisión](https://github.com/UrielMtz03/Mineria-de-datos/blob/main/Diagrama%20Evaluaci%C3%B3n.jpg)
