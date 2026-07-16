@@ -15,3 +15,8 @@
 - [Promedios](https://github.com/UrielMtz03/Mineria-de-datos/blob/main/Promedios.py)
 - [Suma de 5 númerps](https://github.com/UrielMtz03/Mineria-de-datos/blob/main/Suma%20de%205%20n%C3%BAmeros.py)
 - [Ventas](https://github.com/UrielMtz03/Mineria-de-datos/blob/main/Ventas.py)
+## Segundo Parcial
+- [2.1 Media, mediana y moda]{https://github.com/UrielMtz03/Mineria-de-datos/blob/main/Ej%202.1%20Media%2C%20mediana%20y%20moda.py}
+- [2.2 Medidas de dipersión]{https://github.com/UrielMtz03/Mineria-de-datos/blob/main/Ej%202.2%20Medidas%20de%20dispersi%C3%B3n.py}
+- [2.3 Correlación]{https://github.com/UrielMtz03/Mineria-de-datos/blob/main/Ej%202.3%20Correlaci%C3%B3n.py}
+- [2.4 Gráficas]{https://github.com/UrielMtz03/Mineria-de-datos/blob/main/Ej%202.4%20Gr%C3%A1ficas.py}
