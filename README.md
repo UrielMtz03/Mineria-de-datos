@@ -21,3 +21,5 @@
 - [2.3 Correlación](https://github.com/UrielMtz03/Mineria-de-datos/blob/main/Ej%202.3%20Correlaci%C3%B3n.py)
 - [2.4 Gráficas](https://github.com/UrielMtz03/Mineria-de-datos/blob/main/Ej%202.4%20Gr%C3%A1ficas.py)
 - [2.5 Árbol de decisión](https://github.com/UrielMtz03/Mineria-de-datos/blob/main/Diagrama%20Evaluaci%C3%B3n.jpg)
+- [2.6 Cuadro comparativo]([https://github.com/UrielMtz03/Mineria-de-datos/blob/main/2.7%20Metodos%20estadisticos.py](https://github.com/UrielMtz03/Mineria-de-datos/blob/main/Cuadro%20comparativo.png))
+- [2.7 Metodos estadisticos](https://github.com/UrielMtz03/Mineria-de-datos/blob/main/2.7%20Metodos%20estadisticos.py)
