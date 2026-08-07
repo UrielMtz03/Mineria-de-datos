@@ -1,0 +1,26 @@
+3.2
+import pandas as pd
+from sklearn.tree import DecisionTreeClassifier
+
+df=pd.read_csv("clientes (1).csv")
+
+x=df[["Compras_Mensuales",
+        "Gasto_Mensual_MXN",
+        "Visitas_Web_Mensuales",
+        "Satisfaccion"]]
+y=df["Nivel_Consumo_Referencia"]
+
+modelo=DecisionTreeClassifier()
+modelo.fit(X, y)
+
+nuevos_clientes=pd.DataFrame({
+    "Compras_Mensuales": [1, 10, 18],
+    "Gasto_Mensual_MXN": [500, 12000, 25000],
+    "Visitas_Web_Mensuales": [2, 25, 50],
+    "Satisfaccion": [2.5, 4.2, 5.0]
+})
+
+predicciones=modelo.predict(nuevos_clientes)
+# Mostrar resultados
+nuevos_clientes["Prediccion"]=predicciones
+print(nuevos_clientes)
