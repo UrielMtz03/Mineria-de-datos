@@ -23,3 +23,7 @@
 - [2.5 Árbol de decisión](https://github.com/UrielMtz03/Mineria-de-datos/blob/main/Diagrama%20Evaluaci%C3%B3n.jpg)
 - [2.6 Cuadro comparativo](https://github.com/UrielMtz03/Mineria-de-datos/blob/main/Cuadro%20comparativo.png)
 - [2.7 Metodos estadisticos](https://github.com/UrielMtz03/Mineria-de-datos/blob/main/2.7%20Metodos%20estadisticos.py)
+## Tercer parcial
+- [Cuadro comparativo: Tipos de Agrupamiento](https://github.com/UrielMtz03/Mineria-de-datos/blob/main/Cuadro%20comparativo%20M%C3%A9todos%20de%20sgrupamiento%20no%20supervisado.docx)
+- [3.1 Kmeans](https://github.com/UrielMtz03/Mineria-de-datos/blob/main/3.1%20K-means.py)
+- [3.2 Prediccion](https://github.com/UrielMtz03/Mineria-de-datos/blob/main/3.2)
