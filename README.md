@@ -27,5 +27,5 @@
 - [Cuadro comparativo: Tipos de Agrupamiento](https://github.com/UrielMtz03/Mineria-de-datos/blob/main/Cuadro%20comparativo%20M%C3%A9todos%20de%20sgrupamiento%20no%20supervisado.docx)
 - [3.1 Kmeans](https://github.com/UrielMtz03/Mineria-de-datos/blob/main/3.1%20K-means.py)
 - [3.2 Prediccion](https://github.com/UrielMtz03/Mineria-de-datos/blob/main/3.2)
-- [3.3 Tabla de patrones](https://github.com/UrielMtz03/Mineria-de-datos/blob/main/Ejercicio%203%20Tabla.png)
-- [3.4 Practica redes sociales](https://github.com/UrielMtz03/Mineria-de-datos/blob/main/Ejercicio%204.py)
+- [3.3 Tabla de patrones](https://github.com/UrielMtz03/Mineria-de-datos/blob/main/Ejercicio%203.3%20Tabla.png)
+- [3.4 Practica redes sociales](https://github.com/UrielMtz03/Mineria-de-datos/blob/main/Ejercicio%203.4.py)
